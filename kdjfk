@@ -1,0 +1,104 @@
+[33mcommit 32dfb3abcdc7ec2d73964a7f328473f23301933a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 19:37:01 2022 +0530
+
+    confiict resoved
+
+[33mcommit ff6f729ee511014cda2e8f4a055d7cff9a18066e[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 19:35:21 2022 +0530
+
+    dfs
+
+[33mcommit 7647af4824cbfe3a37b01ba58e243e998c2c749e[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 19:32:16 2022 +0530
+
+    controller class
+
+[33mcommit 52feabdd81194352010ad63c9abf785764c12980[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 19:22:18 2022 +0530
+
+    added autoqualifer
+
+[33mcommit 2313c2f00b24fc68737f16ec5e71bfce4d1fa739[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 19:17:44 2022 +0530
+
+    deleted
+
+[33mcommit e3656130adb5e4645e0098ccc187bf2191beb57c[m
+Merge: 6476522 fca1362
+Author: Santosh2019 <39305522+Santosh2019@users.noreply.github.com>
+Date:   Sun Aug 7 19:14:33 2022 +0530
+
+    Merge pull request #5 from Santosh2019/develop
+    
+    Develop
+
+[33mcommit fca13620fc8859718108625c2173409c17c18e0f[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 18:28:28 2022 +0530
+
+    df
+
+[33mcommit 2433d670af3e4846943f9b1d234e0cf1046c6ca1[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 18:25:22 2022 +0530
+
+    added t4.txt
+
+[33mcommit 6476522256b0d1081a0f37501784913c377f7293[m
+Merge: 6530016 ea9fed7
+Author: Santosh2019 <39305522+Santosh2019@users.noreply.github.com>
+Date:   Sun Aug 7 18:06:08 2022 +0530
+
+    Merge pull request #4 from Santosh2019/release
+    
+    Merge pull request #3 from Santosh2019/main
+
+[33mcommit ea9fed7d9a7947c7b47d567a9622ff90b6fce824[m[33m ([m[1;31morigin/release[m[33m)[m
+Merge: 3b3df12 6530016
+Author: Santosh2019 <39305522+Santosh2019@users.noreply.github.com>
+Date:   Sun Aug 7 18:05:25 2022 +0530
+
+    Merge pull request #3 from Santosh2019/main
+    
+    t4.txt file
+
+[33mcommit 6530016b945dd83c6ef26aa868ec48d612d3e238[m
+Merge: 6a20157 1abf8a1
+Author: Santosh2019 <39305522+Santosh2019@users.noreply.github.com>
+Date:   Sun Aug 7 18:04:21 2022 +0530
+
+    Merge pull request #2 from Santosh2019/develop
+    
+    Merge pull request #1 from Santosh2019/main
+
+[33mcommit 1abf8a12bc1ff3081a27c55c9df643655baa50f3[m
+Merge: 3b3df12 6a20157
+Author: Santosh2019 <39305522+Santosh2019@users.noreply.github.com>
+Date:   Sun Aug 7 18:03:42 2022 +0530
+
+    Merge pull request #1 from Santosh2019/main
+    
+    added t4.txt file
+
+[33mcommit 6a2015793e43abc7e79e41bd8b937a756aae005c[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 18:01:47 2022 +0530
+
+    added t4.txt file
+
+[33mcommit 3b3df12c8326ac44bb7f8dd7b354820d742dc81c[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 17:56:09 2022 +0530
+
+    f6 deleted
+
+[33mcommit d58b6a6e49076ffbe1fc7e1da1f2a0c68761e1d5[m
+Author: Santosh2019 <santoshlimbale76@gmail.com>
+Date:   Sun Aug 7 13:14:28 2022 +0530
+
+    Commit First
